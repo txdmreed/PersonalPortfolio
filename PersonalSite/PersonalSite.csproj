@@ -71,7 +71,7 @@
     <Content Include="blog-single.html" />
     <Content Include="CSS\Custom.css" />
     <Content Include="CSS\style.css" />
-    <Content Include="favicon %281%29.ico" />
+    <Content Include="favicon %284%29.ico" />
     <Content Include="forms\contact.php" />
     <Content Include="forms\Readme.txt" />
     <Content Include="Images\Buffy1.jpg" />
@@ -80,6 +80,7 @@
     <Content Include="Images\BuffyNFaith2.jpg" />
     <Content Include="Images\BuffyNFaith3.jpg" />
     <Content Include="Images\Faith1.jpg" />
+    <Content Include="Images\Faith3.png" />
     <Content Include="Images\MeAtEnchanted.jpg" />
     <Content Include="Images\mepic %282%29.jpg" />
     <Content Include="Images\mepic.jpg" />
